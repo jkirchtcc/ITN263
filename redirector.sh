@@ -13,8 +13,8 @@
 #              address specified in the global variable DEST_IP. This script
 #              also allows TCP/22 (SSH) traffic to connect.
 #
-# Usage: 		   After updating the values in the global variable section,
-#        			 run this script as root (or with sudo).
+# Usage:       After updating the values in the global variable section,
+#              run this script as root (or with sudo).
 #
 # Credits:     The Bash Hackers Wiki - http://wiki.bash-hackers.org
 #              /howto/getopts_tutorial
